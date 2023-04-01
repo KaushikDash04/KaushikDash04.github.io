@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(14, 34, 54);
+    font-family: sans-serif;
+}
+
+.heading{
+    text-align: center;
+}
+
+header{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.heading h1{
+    font-size: 50px;
+    font-weight: 800;
+    color: rgb(73, 126, 153);
+    margin-bottom: 10px;
+}
+.heading p{
+    font-size: 20px;
+    font-weight: 200;
+    color: #444;
+}
+
